@@ -1,4 +1,4 @@
-# Magisk Tools
+adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
 
 Magisk comes with a huge collections of tools for installation, daemons, and utilities for developers. This documentation covers the 4 binaries and all included applets. The binaries and applets are shown below:
 
